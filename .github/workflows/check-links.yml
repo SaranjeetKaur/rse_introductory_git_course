@@ -17,5 +17,5 @@ jobs:
           use-quiet-mode: yes
           use-verbose-mode: yes
           folder-path: "_episodes, _extras, _includes"
-          file-path: "./README.md, ./LICENSE.md, ./CODE_OF_CONDUCT.md, CONTRIBUTING.md, reference.md, setup.md, index.md"
+          file-path: "./_config.yml, ./README.md, ./LICENSE.md, ./CODE_OF_CONDUCT.md, CONTRIBUTING.md, reference.md, setup.md, index.md"
           config-file: .mlc_config.json
