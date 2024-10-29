@@ -1,0 +1,5 @@
+{
+    "ignorePatterns": [
+        "^https://opensource.org/"
+    ]
+}
