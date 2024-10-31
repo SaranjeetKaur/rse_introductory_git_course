@@ -30,7 +30,7 @@ keypoints:
 
 ## First Things First
 
-You should have already completed the [setup instructions](../setup) for this
+You should have already completed the [setup instructions] for this
 workshop and have Git installed. Launch a command line environment (on Windows
 launch "Git Bash" from the Start menu; on Linux or macOS start a new Terminal). We
 will use this command line interface throughout these materials. We focus on
@@ -52,6 +52,8 @@ with Git. In collaborative projects this is used to distinguish who has made
 what changes. The `--global` part of the command sets this information for
 any projects on which you might work on this computer. Therefore you only need
 to perform the above commands once for each new computer Git is installed on.
+
+[setup instructions]: {% link setup.md %}
 
 > ## The Command Line Interface
 >
