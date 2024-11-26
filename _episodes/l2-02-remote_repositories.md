@@ -18,7 +18,7 @@ keypoints:
 - "`git fetch`, followed by `git status`, shows whether there are any changes to
   synchronise."
 - "`git pull` brings changes in the upstream branch to the local branch."
-- "`git push` synchronises any committed changes in your local branch with the 
+- "`git push` synchronises any committed changes in your local branch with the
   upstream branch."
 - "push and pull commands only affect the branch currently checked out."
 ---
