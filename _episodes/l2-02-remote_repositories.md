@@ -13,8 +13,8 @@ objectives:
 - "Use the pull command to update your local branch with the remote one."
 keypoints:
 - "origin is the default name used by GitHub to refer to a remote repository."
-- "Local and remote repositories are not identical, in general."
-- "Local and remote repositories are not synchronized automatically."
+- "Local and remote repositories are not identical, in general, as synchronisation
+  must be performed manually."
 - "push and pull commands only affect the branch currently checked out."
 ---
 
