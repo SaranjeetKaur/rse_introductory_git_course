@@ -12,9 +12,14 @@ objectives:
 - "Use the push command to send changes on the local branch to the remote one."
 - "Use the pull command to update your local branch with the remote one."
 keypoints:
-- "origin is typically the name of the remote repository used by GitHub."
-- "Local and remote repositories are not identical, in general."
-- "Local and remote repositories are not synchronized automatically."
+- "origin is the default name used by Git to refer to a remote repository."
+- "Local and remote repositories are not identical, in general, as synchronisation
+  must be performed manually."
+- "`git fetch`, followed by `git status`, shows whether there are any changes to
+  synchronise."
+- "`git pull` brings changes in the upstream branch to the local branch."
+- "`git push` synchronises any committed changes in your local branch with the
+  upstream branch."
 - "push and pull commands only affect the branch currently checked out."
 ---
 
