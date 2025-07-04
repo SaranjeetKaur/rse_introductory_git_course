@@ -69,7 +69,7 @@ because of a feature we aren't covering in this course in detail called branchin
 those who are interested, [it is covered in the intermediate-level Git
 course][intermediate-branching].)
 
-[intermediate-branching]: https://imperialcollegelondon.github.io/intermediate_grad_school_git_course/02-branching_merging/index.html
+[intermediate-branching]: https://imperialcollegelondon.github.io/rse_further_git_course/02-branching_merging/index.html
 
 ## Getting started with GitKraken
 
@@ -142,7 +142,7 @@ repository's history.
 > remind yourself what changes you made.
 {: .challenge}
 
-[intermediate-course]: https://imperialcollegelondon.github.io/intermediate_grad_school_git_course/
+[intermediate-course]: https://imperialcollegelondon.github.io/rse_further_git_course/
 
 ## Modifying your repository
 

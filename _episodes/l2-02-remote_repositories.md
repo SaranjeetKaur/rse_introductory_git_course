@@ -70,7 +70,7 @@ local one out of it or the other way around, the steps are different.
 > ```
 >
 > For example, for this course's repository, the address would be:
-> `https://github.com/ImperialCollegeLondon/introductory_grad_school_git_course.git`
+> `https://github.com/ImperialCollegeLondon/rse_introductory_git_course.git`
 > In general, it is something like: `https://github.com/USERNAME/REPO_NAME.git`
 >
 > **macOS and Linux users:** You will be asked to provide your GitHub username and password.
@@ -171,7 +171,7 @@ local one out of it or the other way around, the steps are different.
 > to be resolved before proceeding.
 >
 > This is part of the scope of the intermediate Git and GitHub course that you can find
-> in <https://imperialcollegelondon.github.io/intermediate_grad_school_git_course/>
+> in <https://imperialcollegelondon.github.io/rse_further_git_course/>
 {: .callout}
 
 > ## Pulling an updated README
