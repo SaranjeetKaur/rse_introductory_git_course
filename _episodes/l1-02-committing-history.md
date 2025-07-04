@@ -190,7 +190,7 @@ The path you see in the output will vary depending on your operating system.
 > your default branch rather than `master`, which you can then delete.
 >
 > We will use `main` as the default branch name throughout the workshop. Branches will
-> be covered in detail in [our intermediate Git course](https://imperialcollegelondon.github.io/intermediate_grad_school_git_course/).
+> be covered in detail in [our intermediate Git course](https://imperialcollegelondon.github.io/rse_further_git_course/).
 {: .callout}
 
 ## Creating The First Snapshot
